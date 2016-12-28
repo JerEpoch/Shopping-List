@@ -20,6 +20,7 @@ import auth
 import control
 import model
 import task
+import shop
 
 from api import helpers
 
