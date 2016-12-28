@@ -1,3 +1,6 @@
+Using the following framework to create a shopping list site
+
+
 gae-init
 ========
 
